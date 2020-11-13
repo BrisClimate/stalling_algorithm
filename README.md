@@ -5,7 +5,7 @@ This repositry consists of three scripts that can be used to find stalling hurri
 ## hurricane.py
 This script contains the functions.
 
-## find_stalling_hurricanes.py
+## find_hurricane_stalls.py
 You must run this script first to generate the stalling csv file. You can load in the ibtracks netCDF file found in data/ or upload your own.
 
 ## plot_stall_intensity.py
